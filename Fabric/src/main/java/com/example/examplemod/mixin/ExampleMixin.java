@@ -1,6 +1,6 @@
-package com.aegide.tomecraft.mixin;
+package com.example.examplemod.mixin;
 
-import com.aegide.tomecraft.Constants;
+import com.example.examplemod.Constants;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.gui.screens.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;

@@ -1,4 +1,4 @@
-package com.aegide.tomecraft.platform.services;
+package com.example.examplemod.platform.services;
 
 public interface IPlatformHelper {
 

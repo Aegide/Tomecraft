@@ -1,13 +1,13 @@
-package com.aegide.tomecraft;
+package com.example.examplemod;
 
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.entity.player.ItemTooltipEvent;
 import net.minecraftforge.fml.common.Mod;
 
 @Mod(Constants.MOD_ID)
-public class Tomecraft {
+public class ExampleMod {
     
-    public Tomecraft() {
+    public ExampleMod() {
     
         // This method is invoked by the Forge mod loader when it is ready
         // to load your mod. You can access Forge and Common code in this

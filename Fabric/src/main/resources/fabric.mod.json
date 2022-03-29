@@ -3,10 +3,10 @@
     "id": "modid",
     "version": "${version}",
   
-    "name": "Tomecraft",
-    "description": "This is a description",
+    "name": "Example Mod",
+    "description": "This is an example description! Tell everyone what your mod is about!",
     "authors": [
-      "Aegide"
+      "Me!"
     ],
     "contact": {
       "homepage": "https://fabricmc.net/",
@@ -19,7 +19,7 @@
     "environment": "*",
     "entrypoints": {
       "main": [
-        "com.aegide.tomecraft.Tomecraft"
+        "com.example.examplemod.ExampleMod"
       ]
     },
     "mixins": [
