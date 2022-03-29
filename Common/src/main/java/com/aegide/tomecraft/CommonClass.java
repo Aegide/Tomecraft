@@ -1,6 +1,6 @@
-package com.example.examplemod;
+package com.aegide.tomecraft;
 
-import com.example.examplemod.platform.Services;
+import com.aegide.tomecraft.platform.Services;
 import net.minecraft.core.Registry;
 import net.minecraft.network.chat.Component;
 import net.minecraft.network.chat.TextComponent;

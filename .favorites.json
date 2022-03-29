@@ -1,0 +1,22 @@
+[
+    {
+        "type": "Directory",
+        "name": "c:\\Github\\Tomecraft\\Forge\\build\\libs",
+        "parent_id": null,
+        "fsPath": "c:\\Github\\Tomecraft\\Forge\\build\\libs",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "mr3cW21iInTx5jY8",
+        "label": "JARs (forge)"
+    },
+    {
+        "type": "Directory",
+        "name": "c:\\Github\\Tomecraft\\Fabric\\build\\libs",
+        "parent_id": null,
+        "fsPath": "c:\\Github\\Tomecraft\\Fabric\\build\\libs",
+        "workspaceRoot": null,
+        "workspacePath": null,
+        "id": "UThM4uQtpfeqdOES",
+        "label": "JARs (fabric)"
+    }
+]

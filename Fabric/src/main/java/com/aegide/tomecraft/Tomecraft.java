@@ -1,9 +1,9 @@
-package com.example.examplemod;
+package com.aegide.tomecraft;
 
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.item.v1.ItemTooltipCallback;
 
-public class ExampleMod implements ModInitializer {
+public class Tomecraft implements ModInitializer {
     
     @Override
     public void onInitialize() {
