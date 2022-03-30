@@ -1,6 +1,6 @@
-package com.example.examplemod.platform;
+package aegide.tomecraft.platform;
 
-import com.example.examplemod.platform.services.IPlatformHelper;
+import aegide.tomecraft.platform.services.IPlatformHelper;
 import net.minecraftforge.fml.ModList;
 import net.minecraftforge.fml.loading.FMLLoader;
 
