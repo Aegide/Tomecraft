@@ -1,7 +1,7 @@
-package aegide.tomecraft.platform;
+package com.example.examplemod.platform;
 
-import aegide.tomecraft.Constants;
-import aegide.tomecraft.platform.services.IPlatformHelper;
+import com.example.examplemod.Constants;
+import com.example.examplemod.platform.services.IPlatformHelper;
 
 import java.util.ServiceLoader;
 

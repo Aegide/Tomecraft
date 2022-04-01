@@ -1,4 +1,4 @@
-package aegide.tomecraft;
+package com.example.examplemod;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

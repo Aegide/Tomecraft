@@ -15,6 +15,7 @@ license="All rights reserved"
 
 # A URL to refer people to when problems occur with this mod
 #issueTrackerURL="https://change.me.to.your.issue.tracker.example.invalid/" #optional
+
 # A list of mods - how many allowed here is determined by the individual mod loader
 [[mods]] #mandatory
 
@@ -39,15 +40,13 @@ displayName="Tomecraft" #mandatory
 logoFile="logo.png" #optional
 
 # A text field displayed in the mod UI
-credits="Thanks for this example mod goes to Java" #optional
+credits="Thanks for this template goes to Jared" #optional
 
 # A text field displayed in the mod UI
 authors="Aegide" #optional
 
 # The description text for the mod (multi line!) (#mandatory)
-description='''
-This is a long form description of the mod. You can write whatever you want here
-'''
+description='''Definitely not Thaumcraft'''
 
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
 [[dependencies.tomecraft]] #optional
